@@ -46,5 +46,6 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Practical Way to Visualize Stylish Fonts in the Command Line](https://blog.namanlad.com/the-practical-way-to-visualize-stylish-fonts-in-the-command-line)
 <!-- BLOG-POST-LIST:END -->
 
