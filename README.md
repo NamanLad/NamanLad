@@ -46,6 +46,7 @@
 
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Streamline Your Next.js Setup: Automate Configuration with a Single Bash Script](https://blog.namanlad.com/streamline-your-nextjs-setup-automate-configuration-with-a-single-bash-script)
 - [Supercharge Your CLI: Interactive File Searching with ripgrep and fzf](https://blog.namanlad.com/supercharge-your-cli-interactive-file-searching-with-ripgrep-and-fzf)
 - [The Practical Way to Visualize Stylish Fonts in the Command Line](https://blog.namanlad.com/the-practical-way-to-visualize-stylish-fonts-in-the-command-line)
 <!-- BLOG-POST-LIST:END -->
